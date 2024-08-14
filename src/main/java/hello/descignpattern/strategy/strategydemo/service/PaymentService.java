@@ -8,4 +8,9 @@ public class PaymentService {
     public void pay() {
 
     }
+
+    public void cancel() {
+
+    }
+
 }
